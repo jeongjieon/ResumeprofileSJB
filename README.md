@@ -1,5 +1,3 @@
-# ResumeprofileSJB
- 
 <h1>Hello<h1>
 
 <p style="size=12px">Recently built a website using HTML, CSS, and JavaScript, which serves as a platform to showcase my professional resume. With the increasing trend towards digitalization, I felt it was necessary to have a digital presence that accurately represents my skills, experiences, and achievements.
