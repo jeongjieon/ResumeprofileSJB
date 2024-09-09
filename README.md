@@ -6,5 +6,5 @@ The website I have created is designed to provide a comprehensive overview of my
 
 <button onclick="location.href='[http://www.example.com](https://jeongjieon.github.io/ResumeprofileSJB)'" type="button">
         SJB Profile Website</button>
-The link to my website:   https://jeongjieon.github.io/ResumeprofileSJB/</p>
+The link to my website: https://jeongjieon.github.io/ResumeprofileSJB](https://jeongjieon.github.io/ResumeprofileSJB/home.html/</p>
 
