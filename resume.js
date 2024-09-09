@@ -111,7 +111,7 @@ const chartData = {
           { value: 92, label: 'HTML'}, 
           { value: 94, label: 'CSS'}, 
           { value: 70, label: 'JavaScript'}, 
-          { value: 52, label: 'Assembly Language'}
+          { value: 52, label: 'Assembly Language'},
           { value: 42, label: 'PowerShell Script'}
       ]
     },
