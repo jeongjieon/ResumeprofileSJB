@@ -4,4 +4,8 @@ Recently built a website using HTML, CSS, and JavaScript, which serves as a plat
 
 The website I have created is designed to provide a comprehensive overview of my career and educational background, as well as my skills and achievements. I have utilized various HTML tags and CSS styling to ensure that the website is visually appealing and easy to navigate. In addition, I have incorporated JavaScript features to add interactivity and enhance the user experience.
 
+<div class="btns">
+        <button type="submit"><a href="home.html" style="text-decoration: none; color: black;">Let's GO!</a></button>
+    </div> 
+    
 The link to my website:  https://jeongjieon.github.io/ResumeprofileSJB/home.html
